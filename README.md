@@ -1,2 +1,2 @@
 # Matrix
-This repo contains a matrix calculator
+This repo contains a matrix transposer
